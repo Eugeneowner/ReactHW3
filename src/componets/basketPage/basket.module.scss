@@ -1,0 +1,60 @@
+.main {
+    &_products {
+      width: 95%;
+      margin: 20px auto;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 15px;
+      &_item {
+          padding: 10px;
+        width: 24%;
+        height: 300px;
+        border: 1px solid #FFF;
+        border-radius: 20px;
+        &_img {
+          display: block;
+          margin: 0 auto;
+          height: 85%;
+          width: 90%;
+          border: 1px solid #FFF;
+          border-radius: 1px;
+        }
+        &_container {
+          margin: 15px auto 0 auto;
+          width: 90%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          &_name {
+              font-size: 14px;
+              color: #FFF;
+          }
+          &_price {
+              font-weight: 600;
+              color: #FFF;
+          }
+          &_btn {
+              cursor: pointer;
+              background: none;
+              border: 1px solid #FFF;
+              border-radius: 1px;
+              color: #FFF;
+              transition-duration: 0.5s;
+              &:hover{
+                  transition-duration: 0.8s;
+                  background: #FFF;
+                  color:#000;
+              }
+              &_img{
+                width: 18px;
+                height: 18px;
+              
+              }
+          }
+  
+        }
+      }
+    }
+  }
+  

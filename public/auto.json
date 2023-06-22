@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "name": "Ghost",
+        "price": "38 000",
+        "img": "https://www.ansa.it/webimages/img_620x438/2022/5/13/6c7f6b26167f27dc60457692a9e16303.jpg"
+    },
+
+    {
+        "id": "2",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://www.avtomir.ua/wp-content/uploads/2020/09/5f4e50c1ec05c46a3a0000b6.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://klassen.de/media/images/vehicles/i/bpic/4837189457001018/202202091711274071.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://cdn.motor1.com/images/mgl/O6YLy/s1/4x3/rolls-royce-ghost-black-badge.webp"
+    },
+    {
+        "id": "5",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://rolls-royce-avilon.ru/media/blocks/image/Ghost_Urban_Static_Exterior_Front_4_Image_Original_File.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://www.cnet.com/a/img/resize/43937564c07165e6d7ebb908aee0954ee1fe0788/hub/2021/10/28/9f17952f-e82e-481c-b013-bbee222cd621/rolls-royce-ghost-black-badge-001.jpg?auto=webp&width=1200"
+    },
+    {
+        "id": "7",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://media.gqmagazine.fr/photos/6407576a2f2f9d9fbcde59e5/16:9/w_2560%2Cc_limit/rolls-royce-5-phantom-syntopia-2023%2520copie.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://i.ytimg.com/vi/_q0E09YumZw/maxresdefault.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://www.telegraph.co.uk/multimedia/archive/02854/rolls-diamond_2854024c.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://montenapodaily.com/wp-content/uploads/2022/10/23102022-PORTADA-Rolls-Royce-Phantom.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://s2-g1.glbimg.com/KMsGCquND57cs0cVvXG9mNfJvkI=/0x0:924x519/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/b/hrj0pgQxmLAwjE6U7SIA/drake-rolls-royce-cullinan-1.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Ghost",
+        "price": "178 000",
+        "img": "https://klassen.de/media/images/vehicles/i/mpic/9872189480001018/202206081135305741.jpg"
+    }
+
+
+
+]
